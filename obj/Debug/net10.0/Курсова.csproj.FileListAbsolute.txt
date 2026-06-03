@@ -1,0 +1,14 @@
+C:\Users\PC-1\OneDrive\Рабочий стол\Курсова\bin\Debug\net10.0\Курсова.exe
+C:\Users\PC-1\OneDrive\Рабочий стол\Курсова\bin\Debug\net10.0\Курсова.deps.json
+C:\Users\PC-1\OneDrive\Рабочий стол\Курсова\bin\Debug\net10.0\Курсова.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Рабочий стол\Курсова\bin\Debug\net10.0\Курсова.dll
+C:\Users\PC-1\OneDrive\Рабочий стол\Курсова\bin\Debug\net10.0\Курсова.pdb
+C:\Users\PC-1\OneDrive\Рабочий стол\Курсова\obj\Debug\net10.0\Курсова.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\OneDrive\Рабочий стол\Курсова\obj\Debug\net10.0\Курсова.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Рабочий стол\Курсова\obj\Debug\net10.0\Курсова.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Рабочий стол\Курсова\obj\Debug\net10.0\Курсова.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Рабочий стол\Курсова\obj\Debug\net10.0\Курсова.dll
+C:\Users\PC-1\OneDrive\Рабочий стол\Курсова\obj\Debug\net10.0\refint\Курсова.dll
+C:\Users\PC-1\OneDrive\Рабочий стол\Курсова\obj\Debug\net10.0\Курсова.pdb
+C:\Users\PC-1\OneDrive\Рабочий стол\Курсова\obj\Debug\net10.0\Курсова.genruntimeconfig.cache
+C:\Users\PC-1\OneDrive\Рабочий стол\Курсова\obj\Debug\net10.0\ref\Курсова.dll
