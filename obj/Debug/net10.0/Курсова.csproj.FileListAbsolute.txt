@@ -12,3 +12,4 @@ C:\Users\PC-1\OneDrive\Рабочий стол\Курсова\obj\Debug\net10.0\
 C:\Users\PC-1\OneDrive\Рабочий стол\Курсова\obj\Debug\net10.0\Курсова.pdb
 C:\Users\PC-1\OneDrive\Рабочий стол\Курсова\obj\Debug\net10.0\Курсова.genruntimeconfig.cache
 C:\Users\PC-1\OneDrive\Рабочий стол\Курсова\obj\Debug\net10.0\ref\Курсова.dll
+C:\Users\PC-1\OneDrive\Рабочий стол\Курсова\obj\Debug\net10.0\Курсова.sourcelink.json
